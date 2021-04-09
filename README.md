@@ -1,10 +1,6 @@
----
-title: Curso Herramientas de Productividad para Ciencia de Datos
-subtitle: Diplomado en Fundamentos de Ciencia de Datos
-layout: page
-show_sidebar: false
----
+# Curso Herramientas de Productividad para Ciencia de Datos
 
+## Diplomado en Fundamentos de Ciencia de Datos
 
 ## Instructor
 
