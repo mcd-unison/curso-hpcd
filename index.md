@@ -4,7 +4,6 @@ subtitle: Diplomado en Fundamentos de Ciencia de Datos
 layout: page
 hero_image: /curso-hpcd/img/banner_uni.jpg 
 hero_darken: true
-hide_footer: true
 show_sidebar: false
 ---
 
