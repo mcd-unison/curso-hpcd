@@ -4,6 +4,7 @@ title: Docker
 subtitle: Qué es, instalación y uso básico
 hero_image: /curso-hpcd/img/bannerdocker.png 
 hero_darken: true
+hide_footer: true
 ---
 
 

@@ -5,6 +5,7 @@ layout: page
 show_sidebar: false
 hero_image: /curso-hpcd/img/data-science-banner.jpg
 hero_darken: true
+hide_footer: true
 ---
 
 

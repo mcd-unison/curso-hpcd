@@ -11,10 +11,11 @@ baseurl: "/curso-hpcd"
 url: "https://mcd-unison.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: juliowaissman
+#gh_sponsor: juliowaissman
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
+footer_menu: footer
 
 plugins:
   - jekyll-sitemap

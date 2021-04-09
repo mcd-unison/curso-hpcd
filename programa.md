@@ -5,14 +5,17 @@ layout: page
 show_sidebar: false
 hero_image: /curso-hpcd/img/bannercito.jpeg 
 hero_darken: true
+hide_footer: true
 ---
 
 **Viernes 9 abril**
 
 1. Presentación y motivación (30 min)
+   
    1. Presentación personal y presentación de los participantes
    2. Presentación sobre la Ciencia de Datos y la Maestría en Ciencia de Datos
    3. Motivación sobre la necesidad de conocer las herramientas de productividad
+   
 2. Docker (90 min)
    1. Presentación de Docker
    2. Instalación de Docker, y uso de imágenes existentes en Docker Hub
@@ -27,6 +30,7 @@ hero_darken: true
    3. El comando `grep`
    4. El uso de `--help`, `man` y `tldr`
    5. Edición de texto con `cat`, `nano` y otras herramientas 
+   
 4. Git y GitHub (60 min)
    1. Presentación sobre Git
    2. Instalación de Git en computadora local y creación de cuentas en GitHub
@@ -41,6 +45,7 @@ hero_darken: true
    1. El lenguaje de marcado *Markdown*
    2. Generación de páginas web con plantilla preestablecida
    3. Desarrollo de una página personal usando *Jekyll* 
+   
 6. Herramientas de UNIX para ciencia de datos (60 min)
    1. Descargando datos en linea de comando (*curl*, *wget* y *scp*)
    2. El editor en streaming *sed* y otras utilerías de procesamiento de archivos de texto
@@ -50,12 +55,14 @@ hero_darken: true
 7. Instalación de distribuciones de *python* y *R* para ciencia de datos (60 min)
    1. Instalación de *python* con la distribución *Anaconda* 
    2. Instalación de *R* y *RStudio*
+   
 8. Libretas Jupyter (60 min)
    1. Presentación de libretas jupyter
    2. Uso básico
-9. Editor de texto para Ciencia de Datos (60 min)
-   1.  Visual Studio Code
-   2.  VIM
+
+9.  Editor de texto para Ciencia de Datos (60 min)
+   3.  Visual Studio Code
+   4.  VIM
 
 **Actividades de la semana**: Descargando y limpiando datos de COVID en un script
 
