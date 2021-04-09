@@ -63,4 +63,4 @@ show_sidebar: false
 10. Cierre del curso. Dudas y conclusiones.
 
 
-<img src="imagenes/MCDLogo.png" width="200">
+<img src="img/MCDLogo.png" width="200">
