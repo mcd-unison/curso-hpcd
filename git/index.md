@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Docker
-subtitle: Qué es, instalación y uso básico
-hero_image: /curso-hpcd/img/bannerdocker.png 
+title: Git y GitHub
+subtitle: Uso básico para proyectos individuales y colaborativos
+hero_image: /curso-hpcd/img/banergit.jpeg 
 hero_darken: true
 ---
 
 
-1. [Presentación ¿Qué es *Docker* y cómo se usa?](intro-docker.slides.html)
+1. [Presentación alegre de git/GitHub](https://pandelisz.github.io/git-intro-slides/#/)
 
 2. [Página de Docker](https://www.docker.com)
 

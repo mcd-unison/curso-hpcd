@@ -3,7 +3,7 @@ title: Plan del Curso
 subtitle: ¿Qué esperamos ver en este curso?
 layout: page
 show_sidebar: false
-hero_image: /curso-hpcd/img/bannercito.jpeg
+hero_image: /curso-hpcd/img/bannercito.jpeg 
 hero_darken: true
 ---
 

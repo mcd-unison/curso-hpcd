@@ -10,7 +10,7 @@
     - name: Herramientas de UNIX
       link: /unix-tools/
     - name: Git y GitHub
-      link: /git-intro/
+      link: /git/
 - name: Actividades para la semana
   link: /#
   dropdown:
