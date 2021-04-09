@@ -1,8 +1,8 @@
 ---
-title: Page without sidebar
-subtitle: Demo page without the sidebar
+title: ¿Qué es la Ciencia de datos?
+subtitle: ¿Y porqué debemos conocer estas herramientas?
 layout: page
 show_sidebar: false
 ---
 
-intro
+Presentación sobre Ciencia de Datos 
