@@ -1,1 +1,54 @@
-theme: jekyll-theme-cayman
+remote_theme: chrisrhymes/bulma-clean-theme
+
+# Site Settings
+lang: es
+title: Curso Herramientas de Productividad para Ciencia de Datos
+tagline: Diplomado en Fundamentos de Ciencia de Datos
+email: mcd@unison.mx
+description: >
+  Material del curso
+baseurl: "/curso-hpcd"
+url: "https://mcd-unison.github.io"
+permalink: pretty
+#favicon: /path/to/favicon.png
+gh_sponsor: juliowaissman
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+
+markdown: kramdown
+highlighter: rouge
+

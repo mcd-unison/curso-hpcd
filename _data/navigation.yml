@@ -1,0 +1,20 @@
+- name: Contenido
+  link: /#
+  dropdown:
+    - name: Plan de trabajo
+      link: /programa/
+    - name: Introducción a la ciencia de datos
+      link: /intro/
+    - name: Docker
+      link: /docker/
+    - name: Herramientas de UNIX
+      link: /unix-tools/
+    - name: git y GitHub
+      link: /git-intro/
+- name: Actividades para la semana
+  link: /#
+  dropdown:
+    - name: del 11 al 16 de abril
+      link: /actividades1/
+    - name: del 18 al 24 de abril
+      link: /actividades2/
