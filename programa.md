@@ -5,8 +5,6 @@ layout: page
 show_sidebar: false
 ---
 
-
-
 **Viernes 9 abril**
 
 1. Presentación y motivación (30 min)
@@ -25,11 +23,11 @@ show_sidebar: false
    1. Movimiento en un sistema tipo UNIX
    2. Copiar, mover y borrar archivos y directorios
    3. El comando `grep`
-   4. El uso de *--help*, *man* y *tdlr*
-   5. Edición de texto con *cat*, *nano* 
-4. GIT y GitHub (60 min)
-   1. Presentación sobre GIT
-   2. Instalación de GIT en computadora local y creación de cuentas en GitHub
+   4. El uso de `--help`, `man` y `tldr`
+   5. Edición de texto con `cat`, `nano` y otras herramientas 
+4. Git y GitHub (60 min)
+   1. Presentación sobre Git
+   2. Instalación de Git en computadora local y creación de cuentas en GitHub
    3. Creación de un repositorio de uso personal en GitHub, uso básico del CLI
    4. Creación de un repositorio compartido en GitHub
 
@@ -63,3 +61,6 @@ show_sidebar: false
 **Sábado 24 de abril**
 
 10. Cierre del curso. Dudas y conclusiones.
+
+
+<img src="imagenes/MCDLogo.png" width="200">
