@@ -9,7 +9,7 @@
       link: /docker/
     - name: Herramientas de UNIX
       link: /unix-tools/
-    - name: git y GitHub
+    - name: Git y GitHub
       link: /git-intro/
 - name: Actividades para la semana
   link: /#
