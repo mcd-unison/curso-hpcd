@@ -15,4 +15,3 @@ hero_darken: true
 
 4. [Acordeón de Dockerfiles](https://iceburn.medium.com/dockerfile-cheat-sheet-9f52aa4a99b3)
 
-![](imagenes/docker-logo.png)
