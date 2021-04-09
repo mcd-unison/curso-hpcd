@@ -4,6 +4,7 @@ subtitle: ¿Qué esperamos ver en este curso?
 layout: page
 show_sidebar: false
 hero_image: /curso-hpcd/img/bannercito.jpeg
+hero_darken: true
 ---
 
 **Viernes 9 abril**
@@ -64,4 +65,4 @@ hero_image: /curso-hpcd/img/bannercito.jpeg
 10. Cierre del curso. Dudas y conclusiones.
 
 
-<img src="img/MCDLogo.png" width="200">
+<img src="/curso-hpcd/img/MCDLogo.png" width="200">
