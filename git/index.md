@@ -2,7 +2,7 @@
 layout: default
 title: Git y GitHub
 subtitle: Uso básico para proyectos individuales y colaborativos
-hero_image: /curso-hpcd/img/banergit.jpeg 
+hero_image: /curso-hpcd/img/git-banner.png
 hero_darken: true
 ---
 
