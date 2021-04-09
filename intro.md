@@ -3,6 +3,7 @@ title: ¿Qué es la Ciencia de datos?
 subtitle: ¿Y porqué debemos conocer estas herramientas?
 layout: page
 show_sidebar: false
+hero_image: img/bannercito.jpeg
 ---
 
 
@@ -13,4 +14,4 @@ show_sidebar: false
 
 
 
-[!](img/bannercito.jpeg)
+![](img/bannercito.jpeg)
