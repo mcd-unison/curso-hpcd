@@ -11,8 +11,8 @@ hide_footer: true
 
 2. [Aquí puedes descargar lo necesario]() para generar una imagen de *Docker* y crear un contenedor con los datos necesarios para el curso de *Software Carpentry*.
    
-   a) Descomprime el archivo y lleva tu terminal de docker a ese directorio.
-   b) Ejecuta los siguientes comandos (no olvides poner el username tuyo): 
+   1. Descomprime el archivo y lleva tu terminal de docker a ese directorio.
+   2. Ejecuta los siguientes comandos (no olvides poner el username tuyo): 
       ```bash
       $ docker build -t username/bash-curso .
       $ docker run --rm -it username/bash-curso
