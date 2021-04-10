@@ -11,7 +11,8 @@ hide_footer: true
 
 En construcción
 
-## Una historia colaborativa en github
+## Una historia colaborativa en GitHub
 
 En construcción
+
 
