@@ -26,5 +26,7 @@ Trabajos para realizar en las dos semanas intermedias
 El curso (y el diplomado en general) se encuentra respaldado por la planta académica de la [Maestría en Ciencia de datos](https://mcd.unison.mx) del [Departamento de Matemáticas de la Universidad de Sonora](https://www.mat.uson.mx/web/)
 
 
+Unete a la conversación en *SLACK* en el espacio creado para este diplomado siguiendo [este enlace](https://join.slack.com/t/diplomadofund-qgy2795/shared_invite/zt-p606q3tc-8JydqN3xfZg~RHfwcGFRpg).
+
 
 <img src="/curso-hpcd/img/MCDLogo.png" alt="drawing" width="300"/>
