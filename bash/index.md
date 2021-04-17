@@ -21,7 +21,7 @@ hide_footer: true
 
 3. [No necesitas una GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
 4. [Data Science at the command line](https://www.datascienceatthecommandline.com)
-5. [Uso comun de `curl`](https://curl.se/docs/manual.html)
+5. [Uso común de `curl`](https://curl.se/docs/manual.html)
 6. [Pequeño tutorial de `sed`](https://www.grymoire.com/Unix/Sed.html)
 7. [Un tutorial no tan malo como la mayoría de `awk`](https://www.tutorialspoint.com/awk/index.htm)
 8. [El paquete de funciones `csvkit`](https://csvkit.readthedocs.io/en/latest/)

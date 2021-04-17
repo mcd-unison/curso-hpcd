@@ -52,8 +52,8 @@ hide_footer: true
  ### Sábado 17 de abril**
 
 - **Herramientas de UNIX para ciencia de datos** (60 min)  
-   1. Descargando datos en linea de comando (*curl*, *wget* y *scp*)
-   2. El editor en streaming *sed* y otras utilerías de procesamiento de archivos de texto
+   1. Descargando datos en linea de comando (`curl`, `wget` y `scp`)
+   2. El editor en streaming `sed`, `awk`  y la suit `csvkit` para procesamiento.
    
 - **Libretas Jupyter** (60 min)  
    1. Presentación de libretas jupyter
