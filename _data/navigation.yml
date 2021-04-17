@@ -11,6 +11,8 @@
       link: /bash/
     - name: Git y GitHub
       link: /git/
+    - name: Jupyter, Anaconda, R, RStudio
+      link: /jupyter/
 - name: Actividades para la semana
   link: /#
   dropdown:
