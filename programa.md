@@ -8,7 +8,7 @@ hero_darken: true
 hide_footer: true
 ---
 
-### Viernes 9 abril**
+### Viernes 9 abril
 
 - **Presentación y motivación** (30 min)  
    1. Presentación personal y presentación de los participantes
@@ -28,7 +28,7 @@ hide_footer: true
 
 ### Actividades de la semana 
 
-- **El uso de *bash* y/o *zsh* y su uso básico** (60 min)
+- **El uso de *bash* y su uso básico** (60 min)
    1. Movimiento en un sistema tipo UNIX
    2. Copiar, mover y borrar archivos y directorios
    3. El comando `grep`
@@ -37,19 +37,19 @@ hide_footer: true
 
 ### Viernes 16 de abril
 
-- Git y GitHub 
+- **Git y GitHub** 
    1. Presentación sobre Git e instalación
    2. GitHub y creación de cuentas
    3. *Clonando* y *forkeando* repositorios
    4. Creación de un repositorio de uso personal en GitHub, uso básico del CLI
    5. Creación de un repositorio compartido en GitHub
 
-- **Pagina web de proyecto y pagina web personal en *GitHub* **(60 min.)
+- **Pagina web de proyecto y pagina web personal en GitHub**(60 min.)
    1. El lenguaje de marcado *Markdown*
    2. Generación de páginas web con plantilla preestablecida
    3. Desarrollo de una página personal usando *Jekyll* 
 
- ### Sábado 17 de abril**
+### Sábado 17 de abril**
 
 - **Herramientas de UNIX para ciencia de datos** (60 min)  
    1. Descargando datos en linea de comando (`curl`, `wget` y `scp`)
@@ -67,7 +67,7 @@ hide_footer: true
 
 Descargando y limpiando datos de COVID en un script
 
-### Sábado 24 de abril**
+### Sábado 24 de abril
 
 - **Cierre del curso. Dudas y conclusiones**
 
