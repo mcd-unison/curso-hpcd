@@ -19,7 +19,7 @@ hide_footer: true
    1. Presentación de *Docker*
    2. Instalación de *Docker*, y uso de imágenes existentes en *Docker Hub*
 
-### Sábado 10 abril**
+### Sábado 10 abril
 
 - **Docker** (120 min)
    1. Uso de imágenes existentes en *Docker Hub*
@@ -49,7 +49,7 @@ hide_footer: true
    2. Generación de páginas web con plantilla preestablecida
    3. Desarrollo de una página personal usando *Jekyll* 
 
-### Sábado 17 de abril**
+### Sábado 17 de abril
 
 - **Herramientas de UNIX para ciencia de datos** (60 min)  
    1. Descargando datos en linea de comando (`curl`, `wget` y `scp`)
