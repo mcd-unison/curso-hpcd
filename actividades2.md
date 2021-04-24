@@ -33,4 +33,4 @@ Se ordenaron los proyectos por fecha de entrega. Les recomiendo visitarlos todos
 - [Benjamin López](https://benjalm21.github.io/COVID-19/)
 - [Daniel Vázquez](https://danielv08.github.io/covid_tabaquismo_son/)
 - [Pedro Hernández](https://pedro-hdez.github.io/docker-y-ciencia-de-datos/)
-
+- [José Luís Bracamonte](https://luisjba.github.io)

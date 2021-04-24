@@ -1,0 +1,21 @@
+Encuesta respecto al curso
+/poll "¿Como fue el curso de acuerdo con tus expectativas?" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Pertinencia de los contenidos" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Tópicos tratados" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Tiempos de presentación" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "El logro de los objetivos planteados fue:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Los materiales de apoyo fueron:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "La aplicación de los conocimientos adquirido es:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Los medios tecnológicos usados fueron:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "La cantidad de información fue" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "En general el programa fue" "Excelente" "Bueno" "Regular" "Malo" anonymous
+Encuesta respecto al instructor
+/poll "Dominio del tema:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Presentación de conceptos:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Interacción y motivación:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Uso de recursos didácticos y tecnológicos:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Comunicación con el grupo:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Tutoría:" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "La extensión de la información (otras fuentes: libros, www, revistas, etc.):" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "Estrategias para facilitar el aprendizaje" "Excelente" "Bueno" "Regular" "Malo" anonymous
+/poll "En general el desempeño del instructor fue:" "Excelente" "Bueno" "Regular" "Malo" anonymous
