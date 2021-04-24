@@ -21,4 +21,16 @@ Los datos los puedes obtener desde esta página:
 
 - [Base de datos abierta de la Secretaría de Salud Federal](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
 
+## Proyectos realizados 
+
+Se ordenaron los proyectos por fecha de entrega. Les recomiendo visitarlos todos, valen la pena:
+
+- [Hector Rodriguez](https://silvertongue26.github.io/Covid-19/)
+- [Ibsan Morales](https://github.com/ibsanmorales/DockerfileUnixCommand)
+- [Hector Yeomans](https://hyeomans.com/obtencion-datos-covid19/)
+- [Carlos Velázquez](https://carlosvelv.github.io/)
+- [Irving González](https://igonzalezz.github.io/mcd-Covid19/)
+- [Benjamin López](https://benjalm21.github.io/COVID-19/)
+- [Daniel Vázquez](https://danielv08.github.io/covid_tabaquismo_son/)
+- [Pedro Hernández](https://pedro-hdez.github.io/docker-y-ciencia-de-datos/)
 
