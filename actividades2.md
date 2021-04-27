@@ -35,4 +35,5 @@ Se ordenaron los proyectos por fecha de entrega. Les recomiendo visitarlos todos
 - [Pedro Hernández](https://pedro-hdez.github.io/docker-y-ciencia-de-datos/)
 - [José Luís Bracamonte](https://luisjba.github.io)
 - [Roberto Aguilar](https://robertolorenzoaguilar.github.io/COVID-19-Analysis/)
-
+- [Hugo Valenzuela](https://hugojira.github.io/docker-csvkit-covid19/)
+- [Cayetano Bustamante](https://cayetanob.github.io/)
