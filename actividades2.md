@@ -12,15 +12,21 @@ hide_footer: true
 Para esta semana vamos a hacer lo siguiente:
 
 - Crear un repositorio en *GitHub* de obtención de datos de la secretaría de salud para *COVID-19* (si deseas puedes buscar otro tipo de problemática de salud)
+  
 - Desarrollar con las herramientas de linea de comando un script para la descarga y limpieza de la base de datos, pensando en una aplicación particular que describas.
+  
 - Hacer una entrada en el repositorio que explique como solucionaste el problema y las dependencias que necesitas.
+  
 - Incluir un `dockerfile`que permita que cualquiera genere un contenedor similar al tuyo y pueda ejecutar tu script sin problema.
-- Hacer la página web del proyecto
+  
+- Hacer la página web del proyecto dentro de GitHub.
 
 Los datos los puedes obtener desde esta página:
 
-- [Base de datos abierta de la Secretaría de Salud Federal](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
+- [Base de datos abierta de la Secretaría de Salud Federal](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 
+
+<!---
 ## Proyectos realizados 
 
 Se ordenaron los proyectos por fecha de entrega. Les recomiendo visitarlos todos, valen la pena:
@@ -38,3 +44,5 @@ Se ordenaron los proyectos por fecha de entrega. Les recomiendo visitarlos todos
 - [Hugo Valenzuela](https://hugojira.github.io/docker-csvkit-covid19/)
 - [Cayetano Bustamante](https://cayetanob.github.io/)
 - [Daniel Mendoza](https://danielmc81.github.io/mcd/)
+
+---> 

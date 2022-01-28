@@ -8,66 +8,68 @@ hero_darken: true
 hide_footer: true
 ---
 
-### Viernes 9 abril
+### Viernes 28 de enero
 
-- **Presentación y motivación** (30 min)  
-   1. Presentación personal y presentación de los participantes
+- **Presentación y motivación** (1 hora)  
+   1. Presentación del curso, personal y presentación de los participantes
    2. Presentación sobre la Ciencia de Datos y la Maestría en Ciencia de Datos
    3. Motivación sobre la necesidad de conocer las herramientas de productividad
    
-- **Docker** (90 min)
+- **Docker** (2 horas)
    1. Presentación de *Docker*
    2. Instalación de *Docker*, y uso de imágenes existentes en *Docker Hub*
 
-### Sábado 10 abril
+### Sábado 29 de enero
 
-- **Docker** (120 min)
+- **Docker** (1 hora)
    1. Uso de imágenes existentes en *Docker Hub*
    2. Personalización de imágenes
-   3. Contenedores funcionando en forma no interactiva.   
+   3. Contenedores funcionando en forma no interactiva.
 
-### Actividades de la semana 
-
-- **El uso de *bash* y su uso básico** (60 min)
+- **La Interfase por línea de comando de UNIX y su uso básico** (1 hora)
    1. Movimiento en un sistema tipo UNIX
    2. Copiar, mover y borrar archivos y directorios
    3. El comando `grep`
    4. El uso de `--help`, `man` y `tldr`
    5. Edición de texto con `cat`, `nano` y otras herramientas 
 
-### Viernes 16 de abril
 
-- **Git y GitHub** 
+### Actividades de la semana 
+
+- Curso sobre línea de comando de *Software Carpentry*.
+
+### Viernes 4 de febrero
+
+- **Git y GitHub** (2 horas)
    1. Presentación sobre Git e instalación
    2. GitHub y creación de cuentas
    3. *Clonando* y *forkeando* repositorios
    4. Creación de un repositorio de uso personal en GitHub, uso básico del CLI
    5. Creación de un repositorio compartido en GitHub
 
-- **Pagina web de proyecto y pagina web personal en GitHub**(60 min.)
+### Sábado 5 de febrero
+
+- **Pagina web de proyecto y pagina web personal en GitHub**(1 hora)
    1. El lenguaje de marcado *Markdown*
    2. Generación de páginas web con plantilla preestablecida
    3. Desarrollo de una página personal usando *Jekyll* 
 
-### Sábado 17 de abril
-
-- **Herramientas de UNIX para ciencia de datos** (60 min)  
+- **Herramientas de UNIX para ciencia de datos** (1 hora)  
    1. Descargando datos en linea de comando (`curl`, `wget` y `scp`)
    2. El editor en streaming `sed`, `awk`  y la suit `csvkit` para procesamiento.
+
+- **Herramientas para python y R** (si alcanza)
+   1. Uso de `conda` para creación de entornos virtuales reproducibles
+   2. Uso de *Colab* y *Deepnote* en línea
+   3. *RStudio* como entorno de desarrollo integrado para el lenguaje *R*
    
-- **Libretas Jupyter** (60 min)  
-   1. Presentación de libretas jupyter
-   2. Uso básico
-
-- **Instalación de distribuciones de *python* y *R* para ciencia de datos** (60 min)  
-   1. Instalación de *python* con la distribución *Anaconda* 
-   2. Instalación de *R* y *RStudio*
-
 ### Actividades de la semana
 
 Descargando y limpiando datos de COVID en un script
 
-### Sábado 24 de abril
+Curso de `git` de *Software Carpentry*
+
+### Sábado 12 de febrero
 
 - **Cierre del curso. Dudas y conclusiones**
 
