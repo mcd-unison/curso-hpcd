@@ -15,7 +15,7 @@ hide_footer: true
 
 4. [Acordeón de Dockerfiles](https://iceburn.medium.com/dockerfile-cheat-sheet-9f52aa4a99b3)
 
-5. [¿Qué es Docker? por Hector Yeomans]{https://comunidadti.com/que-es-docker}
+5. [¿Qué es Docker? por Hector Yeomans](https://comunidadti.com/que-es-docker)
 
 6. Un video de *Hector Yeomans* sobre como instalar WSL2 en Windows (necesario para instalar Docker).
    
