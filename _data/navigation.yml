@@ -16,7 +16,7 @@
 - name: Actividades para la semana
   link: /#
   dropdown:
-    - name: del 11 al 16 de abril
+    - name: del 29 de enero al 5 de febrero
       link: /actividades1/
-    - name: del 18 al 24 de abril
+    - name: del 7 al 14 de febrero
       link: /actividades2/
